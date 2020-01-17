@@ -47,6 +47,7 @@
     <Content Include="HelloDjango\static\site.css" />
     <Content Include="HelloDjango\templates\HelloDjango\about.html" />
     <Content Include="HelloDjango\templates\HelloDjango\index.html" />
+    <Content Include="HelloDjango\templates\HelloDjango\layout.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
