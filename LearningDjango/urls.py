@@ -27,4 +27,5 @@ import HelloDjango.views
 urlpatterns = [
     url(r'^$', HelloDjango.views.index, name='index'),
     url(r'^home$', HelloDjango.views.index, name='home'),
+    url(r'^about$', HelloDjango.views.about, name='about'),
 ]
